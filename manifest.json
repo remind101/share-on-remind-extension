@@ -8,9 +8,9 @@
     "default_icon": "logosquare128.png"
   },
   "icons": {
-    "16": "logosquare16.png",
-    "48": "logosquare48.png",
-    "128": "logosquare128.png"
+    "16": "icons/logosquare16.png",
+    "48": "icons/logosquare48.png",
+    "128": "icons/logosquare128.png"
   },
   "background": {
     "scripts": [
