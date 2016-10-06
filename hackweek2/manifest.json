@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Share on Remind",
+  "version": "1.0",
+  "browser_action":
+  {
+    "default_icon": "logosquare128.png"
+  },
+"icons": { "16": "logosquare16.png",
+           "48": "logosquare48.png",
+          "128": "logosquare128.png" }
+  ,
+  "background":
+  {
+  
+  "scripts": ["background.js"]
+
+  },
+  "permissions": ["activeTab"]
+  
+}
