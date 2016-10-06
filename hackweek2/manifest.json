@@ -2,6 +2,8 @@
   "manifest_version": 2,
   "name": "Share on Remind",
   "version": "1.0",
+  "description": "A browser button that lets you share websites on Remind.",
+  "author": "Connor Pierson",
   "browser_action": {
     "default_icon": "logosquare128.png"
   },
