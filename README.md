@@ -1,4 +1,3 @@
-# share-on-remind-extension
-Share on Remind Extension
+# Share on Remind Chrome Extension
 
-Test Readme for extension
+A browser button that lets you share websites on Remind.
