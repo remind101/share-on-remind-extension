@@ -5,7 +5,7 @@
   "description": "A browser button that lets you share websites on Remind.",
   "author": "Connor Pierson",
   "browser_action": {
-    "default_icon": "logosquare128.png"
+    "default_icon": "icons/logosquare128.png"
   },
   "icons": {
     "16": "icons/logosquare16.png",
